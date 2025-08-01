@@ -1,4 +1,4 @@
-# @vecrea/aws-helpers
+# aws-helpers
 
 A TypeScript library providing aws helper modules for OID4VC (OpenID for Verifiable Credentials) implementations.
 
@@ -84,16 +84,3 @@ The library uses Vitest for testing. Test files are located in `__tests__` direc
 ```bash
 npm test
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Run the test suite
-6. Submit a pull request
-
-## Support
-
-For issues and questions, please use the GitHub issue tracker.
